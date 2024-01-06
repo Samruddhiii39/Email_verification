@@ -7,3 +7,7 @@ Key Features:
 * It ensures the email has a valid domain using basic if-else checks.
 
 * With minimal code, you can determine if an email is likely to be valid or not.
+
+
+The 2nd file is the extended version of the email verification project,
+It is the integration of project1(QR Code genration) and project2(Email verification), It will automatically genrate QR Code for your email if the Email is validated and has no error, or elese it will guide where is the problem in your email.
